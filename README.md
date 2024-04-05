@@ -61,6 +61,7 @@
 
 ## 👨🏻‍💻 My Stats
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goldpulpy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=goldpulpy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=goldpulpy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -71,3 +72,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="40" alt="telegram logo"  />
   </a>
 </div>
+
+
+
